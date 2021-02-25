@@ -28,6 +28,7 @@ function Person(props){
     width:'300px',
     height:'300px',
     border:'2px solid lightblue',
+    borderRadius:'20px',
     backgroundColor:'lightgray',
     margin:'10px',
     display:'inline-block'
